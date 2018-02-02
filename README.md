@@ -1,7 +1,7 @@
 # PushnotifierSharp
 A small C# API to interact with pushnotifier.de 's service
 
-#Usage
+# Usage
 ```csharp
 using PushNotfierSharp;
 class Program
