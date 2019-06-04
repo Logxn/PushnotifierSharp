@@ -1,3 +1,9 @@
+# Deprecated
+This package will no longer be updated.<br>
+Please visit the official package here.<br><br>
+
+<a href="https://github.com/tomg404/pushnotifier-python">pushnotifier-python by tomg404</a>
+
 # PushnotifierSharp
 A small C# API to interact with pushnotifier.de 's service
 
